@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Andres92DS/DS3-Coderhouse.git
+git branch -M main
+git push -u origin main
